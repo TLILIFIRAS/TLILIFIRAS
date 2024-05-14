@@ -1,5 +1,11 @@
 # 💫 About Me:
-A Full Stack Machine Learning Engineer with more than 3 years of experience in a Research Laboratory and 8 years of freelancing experience in full-stack development. I have a passion for solving real-world problems with Artificial Intelligence. My curiosity for learning new and innovative technologies drives me to become a learning machine and keeps me competitive in many tech stacks.
+Experienced Full Stack Machine Learning Engineer with 8 years of mastery in crafting cutting-edge machine learning algorithms, delving deep into the
+realms of deep learning, data science, and full-stack web development. Proficient in the art of deploying sophisticated deep learning models, especially
+in domains such as medical imaging, agricultural advancements, and multimedia applications. Recognized for expertise in harnessing emerging
+technologies like Large Language Models (LLMs) to push the boundaries of model performance and accuracy. My insatiable hunger for innovation and
+relentless pursuit of knowledge drives me to remain at the forefront of technological advancements, ensuring I stand out as a dynamic and competitive
+force across diverse tech stacks. Actively seeking roles in Machine Learning, Data Science, Computer Vision, and Python Development, where I can
+leverage my expertise to drive transformative impact and foster organizational growth.
 
 
 ## 🌐 Socials:
